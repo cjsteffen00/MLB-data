@@ -1,0 +1,48 @@
+game_id,game_type,game_date,home_team,away_team
+813074,Wild Card,2025-09-30,NYY,BOS
+813069,Wild Card,2025-09-30,LAD,CIN
+813066,Wild Card,2025-09-30,CHC,SD
+813072,Wild Card,2025-09-30,CLE,DET
+813071,Wild Card,2025-10-01,CLE,DET
+813064,Wild Card,2025-10-01,CHC,SD
+813068,Wild Card,2025-10-01,LAD,CIN
+813070,Wild Card,2025-10-01,NYY,BOS
+813073,Wild Card,2025-10-02,CLE,DET
+813059,Wild Card,2025-10-02,CHC,SD
+813065,Wild Card,2025-10-02,NYY,BOS
+813058,Divisional Series,2025-10-04,SEA,DET
+813047,Divisional Series,2025-10-04,MIL,CHC
+813051,Divisional Series,2025-10-04,PHI,LAD
+813063,Divisional Series,2025-10-04,TOR,NYY
+813057,Divisional Series,2025-10-05,SEA,DET
+813062,Divisional Series,2025-10-05,TOR,NYY
+813048,Divisional Series,2025-10-06,MIL,CHC
+813052,Divisional Series,2025-10-06,PHI,LAD
+813056,Divisional Series,2025-10-07,DET,SEA
+813061,Divisional Series,2025-10-07,NYY,TOR
+813060,Divisional Series,2025-10-08,NYY,TOR
+813041,Divisional Series,2025-10-08,LAD,PHI
+813055,Divisional Series,2025-10-08,DET,SEA
+813049,Divisional Series,2025-10-08,CHC,MIL
+813050,Divisional Series,2025-10-09,CHC,MIL
+813042,Divisional Series,2025-10-09,LAD,PHI
+813054,Divisional Series,2025-10-10,SEA,DET
+813046,Divisional Series,2025-10-11,MIL,CHC
+813040,League Championship Series,2025-10-12,TOR,SEA
+813036,League Championship Series,2025-10-13,MIL,LAD
+813044,League Championship Series,2025-10-13,TOR,SEA
+813034,League Championship Series,2025-10-14,MIL,LAD
+813043,League Championship Series,2025-10-15,SEA,TOR
+813035,League Championship Series,2025-10-16,SEA,TOR
+813033,League Championship Series,2025-10-16,LAD,MIL
+813031,League Championship Series,2025-10-17,LAD,MIL
+813039,League Championship Series,2025-10-17,SEA,TOR
+813038,League Championship Series,2025-10-19,TOR,SEA
+813037,League Championship Series,2025-10-20,TOR,SEA
+813027,World Series,2025-10-24,TOR,LAD
+813026,World Series,2025-10-25,TOR,LAD
+813032,World Series,2025-10-27,LAD,TOR
+813023,World Series,2025-10-28,LAD,TOR
+813022,World Series,2025-10-29,LAD,TOR
+813025,World Series,2025-10-31,TOR,LAD
+813024,World Series,2025-11-01,TOR,LAD
